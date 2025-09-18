@@ -1,8 +1,7 @@
 package com.thinkconstructive.book_store.service;
 
 import com.thinkconstructive.book_store.dto.UserInfoDto;
-import com.thinkconstructive.book_store.model.UserInfo;
-import org.springframework.stereotype.Service;
+
 
 
 public interface UserInfoService {
